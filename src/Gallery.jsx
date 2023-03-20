@@ -1,5 +1,7 @@
 import React, {useState} from "react";
 import "./gallery.css";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 import CloseIcon from '@mui/icons-material/Close';
 import Img1 from './img/img1.jpg';
 import Img2 from './img/img2.jpg';
@@ -8,8 +10,9 @@ import Img4 from './img/img4.jpg';
 import Img5 from './img/img5.jpg';
 import Img6 from './img/img6.jpg';
 
-const Gallery = () => {
 
+const Gallery = () => {
+    
     let data = [{
     
         id: 1,
@@ -46,6 +49,7 @@ const Gallery = () => {
     }
     return (
         <>
+        
         <div className={model? "model open " : "model"}>
             <img src={tempimgSrc} />
             <CloseIcon onClick ={() => setModel(false)}/>
@@ -60,11 +64,13 @@ const Gallery = () => {
             })}
         </div>
 
-    
-       
+
        </>
+       
     )
-}
+    
+};
+
 
 
 export default Gallery

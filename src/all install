@@ -1,2 +1,7 @@
 npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/icons-material
+npm install @heroicons/react
+npm i react-router-dom
+npm i social-logos
+npm install -D tailwindcss
+npx tailwindcss init
