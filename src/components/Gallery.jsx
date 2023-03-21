@@ -1,14 +1,13 @@
 import React, {useState} from "react";
-import "./gallery.css";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
+import "../gallery.css"
 import CloseIcon from '@mui/icons-material/Close';
-import Img1 from './img/img1.jpg';
-import Img2 from './img/img2.jpg';
-import Img3 from './img/img3.jpg';
-import Img4 from './img/img4.jpg';
-import Img5 from './img/img5.jpg';
-import Img6 from './img/img6.jpg';
+import Img1 from '../img/img1.jpg';
+import Img2 from '../img/img2.jpg';
+import Img3 from '../img/img3.jpg';
+import Img4 from '../img/img4.jpg';
+import Img5 from '../img/img5.jpg';
+import Img6 from '../img/img6.jpg';
+import { Link } from "react-router-dom";
 
 
 const Gallery = () => {
