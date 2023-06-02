@@ -7,6 +7,9 @@ import Img3 from '../img/img3.jpg';
 import Img4 from '../img/img4.jpg';
 import Img5 from '../img/img5.jpg';
 import Img6 from '../img/img6.jpg';
+import Img7 from '../img/img7.jpg';
+import Img8 from '../img/img8.jpg';
+import Img9 from '../img/img9.jpg';
 import { Link } from "react-router-dom";
 
 
@@ -36,6 +39,18 @@ const Gallery = () => {
     {
         id: 6,
         imgSrc: Img6,
+    },
+    {
+        id: 7,
+        imgSrc: Img7,
+    },
+    {
+        id: 8,
+        imgSrc: Img8,
+    },
+    {
+        id: 9,
+        imgSrc: Img9,
     }
 ]
     const [model, setModel] = useState(false);
@@ -67,6 +82,8 @@ const Gallery = () => {
        </>
        
     )
+
+    
     
 };
 

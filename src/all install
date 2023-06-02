@@ -6,3 +6,4 @@ npm i social-logos
 npm install -D tailwindcss
 npx tailwindcss init
 npm i react-router-dom
+npm i react-moving-text https://yidaoj.github.io/react-moving-text/

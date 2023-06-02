@@ -7,21 +7,30 @@
   border-color: rgb(255, 254, 222, 0.751);
   background-color: rgba(255, 254, 222, 0.751);
   border-bottom: 2px solid black;
-  border-bottom-width: 2px;
+  border-bottom-width: 1px;
 }
+
+
 .logo{
   display: block;
   margin-left: auto;
   margin-right: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
 }
 .overskrift{
-  width: 100%;
+  width: auto;
   display: flex;
   justify-content: space-evenly;
   text-align: center;
-  border-bottom: 2px solid black;
-  border-bottom-width: 2px;
+  font-family: 'Courier New', monospace;
+  font-size: 4rem;
+  box-sizing: border-box; 
+  padding: 2rem;
+  
+  
   
   
 }
@@ -52,7 +61,7 @@ code {
   border-color: rgb(255, 254, 222, 0.751);
   background-color: rgba(255, 254, 222, 0.751);
   border-top: 2px solid black;
-  border-top-width: 2px;
+  border-top-width: 1px;
 }
 
 .author {
