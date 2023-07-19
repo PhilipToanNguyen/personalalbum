@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personalalbum/static/css/main.84babeb2.css",
+    "main.js": "/personalalbum/static/js/main.91251b23.js",
+    "static/media/img7.jpg": "/personalalbum/static/media/img7.60c965788319baa2d1ed.jpg",
+    "static/media/img6.jpg": "/personalalbum/static/media/img6.db17287f51428a4cae1d.jpg",
+    "static/media/img3.jpg": "/personalalbum/static/media/img3.052e4d97d8984d908464.jpg",
+    "static/media/img2.jpg": "/personalalbum/static/media/img2.cbdb57ed724a90645ded.jpg",
+    "static/media/img9.jpg": "/personalalbum/static/media/img9.cb28c5d8b7bdefe9e4b4.jpg",
+    "static/media/img8.jpg": "/personalalbum/static/media/img8.29b15c35c4b3cb8360d8.jpg",
+    "static/media/img1.jpg": "/personalalbum/static/media/img1.1f8c5dd3221461540286.jpg",
+    "static/media/img5.jpg": "/personalalbum/static/media/img5.39908c37f23887df948f.jpg",
+    "static/media/img4.jpg": "/personalalbum/static/media/img4.26ea65a6c4d976471847.jpg",
+    "static/media/logo.png": "/personalalbum/static/media/logo.85210a6434893534ce01.png",
+    "index.html": "/personalalbum/index.html",
+    "main.84babeb2.css.map": "/personalalbum/static/css/main.84babeb2.css.map",
+    "main.91251b23.js.map": "/personalalbum/static/js/main.91251b23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84babeb2.css",
+    "static/js/main.91251b23.js"
+  ]
+}
