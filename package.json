@@ -2,7 +2,7 @@
   "name": "personalalbum",
   "version": "0.1.0",
   "homepage": "https://philiptoannguyen.github.io/",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@emotion/react": "^11.10.6",
