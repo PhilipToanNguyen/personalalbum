@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personalalbum/static/css/main.84babeb2.css",
-    "main.js": "/personalalbum/static/js/main.3eb1b142.js",
+    "main.js": "/personalalbum/static/js/main.5e46ff92.js",
     "static/media/img7.jpg": "/personalalbum/static/media/img7.60c965788319baa2d1ed.jpg",
     "static/media/img6.jpg": "/personalalbum/static/media/img6.db17287f51428a4cae1d.jpg",
     "static/media/img3.jpg": "/personalalbum/static/media/img3.052e4d97d8984d908464.jpg",
@@ -14,10 +14,10 @@
     "static/media/logo.png": "/personalalbum/static/media/logo.85210a6434893534ce01.png",
     "index.html": "/personalalbum/index.html",
     "main.84babeb2.css.map": "/personalalbum/static/css/main.84babeb2.css.map",
-    "main.3eb1b142.js.map": "/personalalbum/static/js/main.3eb1b142.js.map"
+    "main.5e46ff92.js.map": "/personalalbum/static/js/main.5e46ff92.js.map"
   },
   "entrypoints": [
     "static/css/main.84babeb2.css",
-    "static/js/main.3eb1b142.js"
+    "static/js/main.5e46ff92.js"
   ]
 }
