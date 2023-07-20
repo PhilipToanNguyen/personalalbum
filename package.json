@@ -1,7 +1,7 @@
 {
   "name": "personalalbum",
   "version": "0.1.0",
-  "homepage": "https://philiptoannguyen.github.io/personalalbum/",
+  "homepage": "https://philiptoannguyen.github.io",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",
